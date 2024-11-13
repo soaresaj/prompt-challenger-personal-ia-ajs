@@ -133,7 +133,7 @@ Com base no contexto e nas informações fornecidas pelo aluno, segue uma estrut
 
 ---
 
-#### 🎯 Exemplo de Treino
+#### 🎯 Exemplo de Treinos
 
 **Aluno:** Exemplo  
 **Frequência de Treino:** 5 Dias por Semana  
@@ -147,16 +147,15 @@ Com base no contexto e nas informações fornecidas pelo aluno, segue uma estrut
 
 - # 📅 **Mês 1**: Treino ABCDE
 
-| **Dia**            | **Foco**   | **Exercícios**                                               |
-| ------------------ | ---------- | ------------------------------------------------------------ |
-| **Dia A - Peito**  | 🔥 Peitoral | - Aquecimento: 10 min de cardio leve<br>- Supino Reto: 4x8-12<br>- Supino Inclinado: 3x10-12<br>- Crucifixo: 3x12-15<br>- Flexões: 3 séries até a falha<br>- Alongamento: 5 min |
-| **Dia B - Costas** | 🔥 Costas   | - Aquecimento: 10 min de cardio leve<br>- Puxada Frontal: 4x8-12<br>- Remada Curvada: 3x10-12<br>- Remada Unilateral: 3x12-15<br>- Pullover: 3x12-15<br>- Alongamento: 5 min |
-| **Dia C - Pernas** | 💪 Pernas   | - Aquecimento: 10 min de cardio leve<br>- Agachamento Livre: 4x8-12<br>- Leg Press: 3x10-12<br>- Cadeira Extensora: 3x12-15<br>- Cadeira Flexora: 3x12-15<br>- Panturrilha em Pé: 4x15-20<br>- Alongamento: 5 min |
-| **Dia D - Ombros** | 💪 Ombros   | - Aquecimento: 10 min de cardio leve<br>- Desenvolvimento com Halteres: 4x8-12<br>- Elevação Lateral: 3x12-15<br>- Elevação Frontal: 3x12-15<br>- Encolhimento com Halteres: 4x12-15<br>- Alongamento: 5 min |
-| **Dia E - Braços** | 💪 Braços   | - Aquecimento: 10 min de cardio leve<br>- Rosca Direta: 4x8-12<br>- Rosca Martelo: 3x10-12<br>- Tríceps Testa: 4x8-12<br>- Tríceps Pulley: 3x10-12<br>- Alongamento: 5 min |
+  | **Dia**            | **Foco**   | **Exercícios**                                               |
+  | ------------------ | ---------- | ------------------------------------------------------------ |
+  | **Dia A - Peito**  | 🔥 Peitoral | - Aquecimento: 10 min de cardio leve<br>- Supino Reto: 4x8-12<br>- Supino Inclinado: 3x10-12<br>- Crucifixo: 3x12-15<br>- Flexões: 3 séries até a falha<br>- Alongamento: 5 min |
+  | **Dia B - Costas** | 🔥 Costas   | - Aquecimento: 10 min de cardio leve<br>- Puxada Frontal: 4x8-12<br>- Remada Curvada: 3x10-12<br>- Remada Unilateral: 3x12-15<br>- Pullover: 3x12-15<br>- Alongamento: 5 min |
+  | **Dia C - Pernas** | 💪 Pernas   | - Aquecimento: 10 min de cardio leve<br>- Agachamento Livre: 4x8-12<br>- Leg Press: 3x10-12<br>- Cadeira Extensora: 3x12-15<br>- Cadeira Flexora: 3x12-15<br>- Panturrilha em Pé: 4x15-20<br>- Alongamento: 5 min |
+  | **Dia D - Ombros** | 💪 Ombros   | - Aquecimento: 10 min de cardio leve<br>- Desenvolvimento com Halteres: 4x8-12<br>- Elevação Lateral: 3x12-15<br>- Elevação Frontal: 3x12-15<br>- Encolhimento com Halteres: 4x12-15<br>- Alongamento: 5 min |
+  | **Dia E - Braços** | 💪 Braços   | - Aquecimento: 10 min de cardio leve<br>- Rosca Direta: 4x8-12<br>- Rosca Martelo: 3x10-12<br>- Tríceps Testa: 4x8-12<br>- Tríceps Pulley: 3x10-12<br>- Alongamento: 5 min |
 
 ---
-
 
 - # 📅 **Mês 2**: Ajustes e Intensificação
 
@@ -164,7 +163,9 @@ Com base no contexto e nas informações fornecidas pelo aluno, segue uma estrut
   - 💪 **Aumentar a carga** em 5-10% em todos os exercícios.
   - 🔄 **Alterar a ordem** dos exercícios para variar o estímulo muscular.
   - 🏋️‍♂️ **Introduzir exercícios compostos adicionais**, como levantamento terra no dia de costas e afundos no dia de pernas.
-  - ⚡ **Incluir técnicas avançadas**, como drop sets ou supersets, para aumentar a intensidade.
+  - ⚡ **Incluir técnicas avançadas**, como drop sets ou supersets, para aumentar a intensidade.  
+  
+  
   | **Dia**            | **Foco** | **Exercício**                                                |
   | ------------------ | -------- | ------------------------------------------------------------ |
   | **Dia A - Peito**  | 💪 Braços | 🏋️‍♂️ Supino Inclinado com Halteres: 4 séries de 8-12 repetições<br/>🏋️‍♂️ Supino Reto com Barra: 3 séries de 10-12 repetições<br/>🏋️‍♂️ Crucifixo Inclinado: 3 séries de 12-15 repetições<br/>💪 Flexões com Elevação de Pernas: 3 séries até a falha |
@@ -183,13 +184,14 @@ Com base no contexto e nas informações fornecidas pelo aluno, segue uma estrut
   - 🏋️‍♂️ **Introduzir exercícios compostos adicionais**, como levantamento terra no dia de costas e afundos no dia de pernas.
   - ⚡ **Exercícios Unilaterais**: priorizar para correção de desequilíbrios musculares.
 
-| **Dia**            | **Foco**   | **Exercícios**                                               |
-| ------------------ | ---------- | ------------------------------------------------------------ |
-| **Dia A - Peito**  | 🔥 Peitoral | - Supino Declinado com Barra: 4x8-12<br>- Supino Inclinado com Halteres: 3x10-12<br>- Crucifixo com Cabos: 3x12-15<br>- Flexões com Peso: 3 séries até a falha |
-| **Dia B - Costas** | 🔥 Costas   | - Puxada com Pegada Neutra: 4x8-12<br>- Remada Curvada com Halteres: 3x10-12<br>- Remada Sentada: 3x12-15<br>- Levantamento Terra Romeno: 3x8-10 |
-| **Dia C - Pernas** | 💪 Pernas   | - Agachamento com Barra Alta: 4x8-12<br>- Hack Squat: 3x10-12<br>- Cadeira Extensora Unilateral: 3x12-15<br>- Stiff: 3x12-15<br>- Panturrilha no Leg Press: 4x15-20 |
-| **Dia D - Ombros** | 💪 Ombros   | - Desenvolvimento Militar: 4x8-12<br>- Elevação Lateral com Cabos: 3x12-15<br>- Elevação Posterior: 3x12-15<br>- Encolhimento com Halteres: 4x12-15 |
-| **Dia E - Braços** | 💪 Braços   | - Rosca Scott: 4x8-12<br>- Rosca Inversa: 3x10-12<br>- Tríceps Francês: 4x8-12<br>- Tríceps Coice: 3x10-12 |
+
+  | **Dia**            | **Foco**   | **Exercícios**                                               |
+  | ------------------ | ---------- | ------------------------------------------------------------ |
+  | **Dia A - Peito**  | 🔥 Peitoral | - Supino Declinado com Barra: 4x8-12<br>- Supino Inclinado com Halteres: 3x10-12<br>- Crucifixo com Cabos: 3x12-15<br>- Flexões com Peso: 3 séries até a falha |
+  | **Dia B - Costas** | 🔥 Costas   | - Puxada com Pegada Neutra: 4x8-12<br>- Remada Curvada com Halteres: 3x10-12<br>- Remada Sentada: 3x12-15<br>- Levantamento Terra Romeno: 3x8-10 |
+  | **Dia C - Pernas** | 💪 Pernas   | - Agachamento com Barra Alta: 4x8-12<br>- Hack Squat: 3x10-12<br>- Cadeira Extensora Unilateral: 3x12-15<br>- Stiff: 3x12-15<br>- Panturrilha no Leg Press: 4x15-20 |
+  | **Dia D - Ombros** | 💪 Ombros   | - Desenvolvimento Militar: 4x8-12<br>- Elevação Lateral com Cabos: 3x12-15<br>- Elevação Posterior: 3x12-15<br>- Encolhimento com Halteres: 4x12-15 |
+  | **Dia E - Braços** | 💪 Braços   | - Rosca Scott: 4x8-12<br>- Rosca Inversa: 3x10-12<br>- Tríceps Francês: 4x8-12<br>- Tríceps Coice: 3x10-12 |
 
 ---
 
@@ -198,6 +200,8 @@ Este formato estruturado permite que o aluno:
 - Tenha **clareza** sobre cada dia de treino.
 - Veja **variações mensais** para manter a progressão e evitar monotonia.
 - **Adapte** gradativamente a intensidade, de acordo com o progresso físico e nível de condicionamento.
+
+---
 
 ### Elaboração do Plano de Alimentação Personalizado: Exemplo para os Primeiros 3 Meses
 
@@ -270,10 +274,7 @@ Objetivo do Treino: **Ganho de Massa Muscular**
 ---
 
 ### 📅 **Mês 2**: Variar os Nutrientes
-
 **Objetivo:** Manter o aumento calórico e variar as fontes de nutrientes para evitar monotonia.
-
-*(Exemplo de plano semelhante ao mês anterior com pequenas variações nos alimentos)*
 
 **Segunda-feira**  
 
@@ -335,11 +336,6 @@ Objetivo do Treino: **Ganho de Massa Muscular**
 ---
 
 ### 📅 **Mês 3**: Ajustes e Introduções Novas
-**Objetivo:** Ajustar a ingestão calórica conforme necessário e introduzir novos alimentos para diversificar a dieta.
-
-*(Exemplo de plano semelhante ao mês anterior com pequenas variações nos alimentos)*
-
-### Mês 3
 **Objetivo:** Iniciar a redução gradual das calorias para preservar a massa muscular enquanto diminui a gordura corporal.
 
 **Segunda-feira**  
@@ -397,6 +393,8 @@ Objetivo do Treino: **Ganho de Massa Muscular**
 - 🥪 **Lanche da Tarde:** 1 shake de proteína (whey protein) com água ou leite desnatado, 1 fatia de pão integral com ricota  
 - 🍣 **Jantar:** 200g de salmão grelhado, 1 batata-doce pequena cozida, 1 xícara de brócolis refogado  
 - 🥛 **Ceia:** 1 copo de leite desnatado, 1 punhado de nozes  
+
+---
 
 ### Plano de Acompanhamento Médico
 **Idade:** 62 anos  
@@ -543,6 +541,13 @@ Esse plano de acompanhamento médico ajuda a garantir que o aluno esteja monitor
 
 ---
 
+### 📅 **Primeiro Mês: Introdução Gradual**
+- **Objetivo:** Introdução de variações nos exercícios para progressão muscular.
+
+#### **Divisão:** ABC
+
+---
+
 ### **Dia A - Peito e Tríceps**
 1. **Aquecimento:**
    - 🚶‍♂️ 10 minutos de caminhada leve na esteira ou bicicleta ergométrica
@@ -657,8 +662,6 @@ Esse plano de acompanhamento médico ajuda a garantir que o aluno esteja monitor
 6. **Alongamento completo**
 
 ---
-
-- 
 
 ### 🍽️ **Plano de Alimentação Personalizado (Segunda a Domingo)**
 
